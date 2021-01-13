@@ -6,12 +6,12 @@ public class Main {
 		System.out.println("hello");
 		System.out.println("git");
 
-		//
-		//
-		//
-		//
-		//
-		//
+		//たまご
+		//ぱん
+		//よーぐると
+		//ばなな
+		//いちご
+		//りんご
 
 
 
