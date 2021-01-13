@@ -13,6 +13,9 @@ public class Main {
 		//いちご
 		//りんご
 
+		//banana
+		//itigo
+
 
 
 	}
